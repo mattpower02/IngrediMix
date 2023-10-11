@@ -2,6 +2,10 @@
 
 ## Overview
 
+
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md) 
+
+
 IngrediMix is a digital platform designed to address the common problem of unused ingredients in kitchen cabinets and the lack of culinary confidence among students and young individuals. The app aims to empower users by providing them with creative and budget-friendly recipes based on the ingredients they already have.
 Problem Statement
 
