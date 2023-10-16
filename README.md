@@ -37,6 +37,13 @@ IngrediMix stands out from competitors like Supercook due to its user-friendly d
 
 IngrediMix primarily targets students and young adults (age range: 18-27), especially those starting to live on their own and cook for themselves. Initially, the marketing focus will be on University of Rhode Island (URI) students living off-campus in Narragansett.
 
+As defined in our lean stack model:
+Low income family/person
+Millennials - not experienced cooks
+College Students
+Middle aged people who want to learn new recipes
+Young, full time workers
+
 ## Revenue Streams
 
 The primary revenue stream for IngrediMix is a paid monthly subscription, emphasizing the value and focus on providing the best recipes and culinary experience to our customers.
