@@ -12,3 +12,8 @@
   - *Observation Statement:* Participants stated that they would like to see a nutrition calculator that can track calories, protein, fats within the recipe.
   - *Supporting Data:*  “Nutrition value like counting calories per ingredient” , “Macro tracking would be a good feature, so you know what the recipes contain and how many calories are in them.”, “The features already listed seem good. Maybe a calculator based on serving sizes would be nice.”
   - *Tean Action (if any):* Create a way where calories and other info can be tracked by ingredient that way a total number can be shown with every recipe, we can further include a breakdown of each ingredient in the recipe that shows its respective macros.
+
+- **Observation 1: Cameron**
+  - *Observation Statement:*  Participants who have better cooking skills were more likely to be willing to pay for this app than those who didn’t have as strong of a cooking background.
+  - *Supporting Data:* 50% of people said that they had above average cooking skills and 69% of people said they would be willing to pay for the app.
+  - *Team Action (if any):* Start with a one time fee for the app and change it to a monthly subscription based on the needs of the company.
