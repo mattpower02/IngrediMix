@@ -32,3 +32,9 @@ https://docs.google.com/presentation/d/1yFkGYVCwufq8WortdgBsQT5dDQvZ7BkUorx8Jey1
 | <h4> **Demographic Info** </h4> | <h4> **Solutions** </h4>|
 |Age : 17-23, Gender: Any, Children: None, Lives: With other college students either on or off campus, Pets: Hopefully none, Income: little to nothing, Busy 24/7 with little time to eat | Quick and easy meals that they can save money with.  Will help them find meals they can make with what they have in their houses. |
 
+| <h4> Persona Name </h4> | <h4> Pain Points/Needs </h4> |
+|-------------------|----------------------|
+| People who want to learn new recipes | This demographic is simply curious to learn new recipes with the ingredients they already have. This can apply to basically anyone older than college students who have some more time, money, and desire to learn. |
+| <h4> **Demographic Info** </h4> | <h4> **Solutions** </h4>|
+|Age range: 24 and up, Moderately Tech Savy, Can live alone or with others |When the user selects the ingredients they have, they will be presented with possible recipes to choose from and can pick a recipe they have not learned.|
+
