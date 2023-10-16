@@ -25,3 +25,9 @@ https://docs.google.com/presentation/d/1yFkGYVCwufq8WortdgBsQT5dDQvZ7BkUorx8Jey1
 | Millennials | Quick and easy recipes for busy lifestyles, Budget-friendly recipes due to financial constraints, Recipes catering to various dietary restrictions, Digital methods for recipe discovery and tracking. |
 | <h4> **Demographic Info** </h4> | <h4> **Solutions** </h4>|
 |Age range: 27-42, Tech-savvy; reliant on smartphones and digital platforms, Often multitask: professionals, parents, students. |Mobile app with easy-to-follow recipes focusing on trending ingredients. Filter recipes based on dietary needs. User reviews and ratings for recipes. |
+
+| <h4> Persona Name </h4> | <h4> Pain Points/Needs </h4> |
+|-------------------|----------------------|
+| College Students | Needs quick and easy meals to make and cheaper meals on their budget |
+| <h4> **Demographic Info** </h4> | <h4> **Solutions** </h4>|
+|Age : 17-23, Gender: Any, Children: None, Lives: With other college students either on or off campus, Pets: Hopefully none, Income: little to nothing, Busy 24/7 with little time to eat |
