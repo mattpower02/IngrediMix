@@ -38,3 +38,8 @@ https://docs.google.com/presentation/d/1yFkGYVCwufq8WortdgBsQT5dDQvZ7BkUorx8Jey1
 | <h4> **Demographic Info** </h4> | <h4> **Solutions** </h4>|
 |Age range: 24 and up, Moderately Tech Savy, Can live alone or with others |When the user selects the ingredients they have, they will be presented with possible recipes to choose from and can pick a recipe they have not learned.|
 
+| <h4> Persona Name </h4> | <h4> Pain Points/Needs </h4> |
+|-------------------|----------------------|
+| Younger full-time workers | Easier meals to cook after long day of work |
+| <h4> **Demographic Info** </h4> | <h4> **Solutions** </h4>|
+|Age: 18-21, Income: Medium, Tech Savvy: Moderate, Lives: Alone/spouse/family, Children: None | Provide recipes that can be made within 15 minutes while also being nutritious to make sure they know that they have a better alternative to a quick trip to McDonalds.|
