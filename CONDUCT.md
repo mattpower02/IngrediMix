@@ -146,3 +146,12 @@ For answers to common questions about this code of conduct, see the FAQ at
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+
+
+## SIGNATURES
+
+![Matt's signature](src/mattpowersignature.png)
+![Brickett signature](src/BrickettSigniture.png)
+![Sean's signature](src/SeanRsignature.png)
+![Peter's signature](src/petermajdalanisignature.png)
+![Connor's signature](src/connnorstubbssignature.png)
