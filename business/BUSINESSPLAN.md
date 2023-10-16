@@ -14,12 +14,7 @@ You can access the Lean Canvas 1-page business plan for IngrediMix through this 
 | **Persona Name** | **Pain Points/Needs** |
 |-------------------|----------------------|
 | Low Income Person / Family | Low income for food, does not have money to spare for one-use ingredients, Needs to eat healthier meals, while saving money |
-|-------------------|----------------------|
+
 | **Demographic Info** | **Solutions** |
 |-------------------|----------------------|
-|Age: 21+
-Children: None
-Lives: Alone/spouse/family
-Income: Low
-Work day: 9am-5pm
-Tech Savvy: Not very|Provide recipes with ingredients that are already owned. Give a good variety to avoid having the same meals over and over, which may be typical in low income households. |
+|Age: 21+, Children: None, Lives: Alone/spouse/family, Income: Low, Work day: 9am-5pm, Tech Savvy: Not very|Provide recipes with ingredients that are already owned. Give a good variety to avoid having the same meals over and over, which may be typical in low income households. |
