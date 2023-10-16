@@ -97,8 +97,9 @@ private interaction with the people involved, including unsolicited interaction
 with those enforcing the Code of Conduct, is allowed during this period.
 Violating these terms may lead to a permanent ban.
 
-##Decisions
+## Decisions
 *Majority vote
+*in a tie, we will hold a short meeting weighing the pros and the cons.
 
 ## Attendance
 *Attend all meetings and project sections. If a member cannot attend, inform group members ahead of time if you cannot make it to a meeting.
