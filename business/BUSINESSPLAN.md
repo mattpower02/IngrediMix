@@ -6,3 +6,11 @@ This approach has helped us define exactly what the problem is, who our customer
 
 ## Google Sheet - Lean Canvas 1-Page Business Plan
 You can access the Lean Canvas 1-page business plan for IngrediMix through this [Google Sheet link](https://docs.google.com/presentation/d/1PTNm7hxM9d72SsOLtgjF3Lfo8pEqyhvbOgFp22v_uCE/edit?usp=sharing).
+
+
+
+## Persona Grids
+
+| **Persona Name** | **Demographic Info** | **Pain Points/Needs** | **Solutions** |
+|-------------------|----------------------|-----------------------|---------------|
+| Matt              | Low income           | Here                  | Here          |
