@@ -107,25 +107,25 @@ Violating these terms may lead to a permanent ban.
 *Reasons for missing: Any acceptable reason for not being able to attend.
 *If a member misses a meeting they should contact the group chat to be provided with the information they missed
 
-##Assignments
+## Assignments
 Planning and given assignments to be decided by group members, and then confirmed by SCRUM master
 
-##Participation
+## Participation
 Everyone is expected to participate in conversations, meetings, and weekly assignments, along with the programming required for designing the app. If participation is lacking for certain group members, let the teaching staff know, and also remind them that participation is mandatory. 
 
 
-##Agenda and Notes
+## Agenda and Notes
 Each meeting, the person responsible for taking notes will rotate every time. If there is ever a discrepancy between who is taking notes, the SCRUM Master will assign who will take notes.
 
 Everyone should have an idea of what the agenda is before the meeting and should bring a few ideas to the meeting. This allows us to make sure we aren’t wasting time during the meeting thinking of ideas since we didn’t prepare. 
 
-##Promptness
+## Promptness
 Every member of the team should be on time for the meeting. We are flexible - if someone is running late, simply let the other members know by texting within the group chat. If you cannot make a meeting, let the group know in advance, preferably 24 hours before the start of the meeting.
 
-##Conversational Courtesy
+## Conversational Courtesy
 Every member should listen to other members of the group, allowing for their input. Conversations should be professional, especially during meeting times. 
 
-##Enforcement/Feedback
+## Enforcement/Feedback
 Each member is encouraged to provide feedback on any work completed for the group. If there is ever a disagreement about the work/feedback, there should be a meeting with the members, the SCRUM Master, and possibly even the teaching staff. Enforcement of rules should be similar to other group work completed in other classes. If someone is slacking, let SCRUM Master and teaching staff know. 
 
 ## Attribution
