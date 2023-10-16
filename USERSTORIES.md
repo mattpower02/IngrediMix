@@ -48,4 +48,4 @@ As a general user, I want to be able to easily access recipes that are quick and
 **Acceptance Criteria:** 
 - [ ] User will see banner ads displayed at bottom or top of the screen
 - [ ] Ads are cooking related
-- [ ] - [ ] Banner is connected to AdMob
+- [ ] Banner is connected to AdMob
