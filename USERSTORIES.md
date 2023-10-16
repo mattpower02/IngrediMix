@@ -17,3 +17,19 @@ As a general user, I want to be able to pick specific ingredients and be given r
  - [ ] User can select given recipes based on chosen ingredients
  - [ ] Missing ingredients will be shown
  - [ ] Recipes can be saved and used at a later time
+
+**User Story:**
+As a general user, I want to be able to save recipes in my account, so that I can easily find meals that I have made in the past.
+
+**Acceptance Criteria:**
+- [ ] User can save meals
+- [ ] User can rank the meals in a certain order
+
+**User Story:**
+As a Administrator, I want to be able to take a users entered recipe and format it into a propper recipe
+
+**Acceptance Criteria:**
+- [ ] Administrator can easily format new recipes
+- [ ] Administrator has easy access to user information
+- [ ] Administrator can design the recipe page with an auto formatting program
+
