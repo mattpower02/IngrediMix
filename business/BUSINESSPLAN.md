@@ -11,7 +11,6 @@ You can access the Lean Canvas 1-page business plan for IngrediMix through this 
 
 ## Persona Grids
 
-| **Persona Name
- Low Income Person / Family** | **Demographic Info** | **Pain Points/Needs** | **Solutions** |
+| **Persona Name** | **Pain Points/Needs** | | **Solutions** |
 |-------------------|----------------------|-----------------------|---------------|
-| Matt              | Low income           | Here                  | Here          |
+| Low Income Person / Family              | Low income for food, does not have money to spare for one-use ingredients, Needs to eat healthier meals, while saving money| Here                  | Here          |
