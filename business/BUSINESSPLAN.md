@@ -30,4 +30,5 @@ https://docs.google.com/presentation/d/1yFkGYVCwufq8WortdgBsQT5dDQvZ7BkUorx8Jey1
 |-------------------|----------------------|
 | College Students | Needs quick and easy meals to make and cheaper meals on their budget |
 | <h4> **Demographic Info** </h4> | <h4> **Solutions** </h4>|
-|Age : 17-23, Gender: Any, Children: None, Lives: With other college students either on or off campus, Pets: Hopefully none, Income: little to nothing, Busy 24/7 with little time to eat |
+|Age : 17-23, Gender: Any, Children: None, Lives: With other college students either on or off campus, Pets: Hopefully none, Income: little to nothing, Busy 24/7 with little time to eat | Quick and easy meals that they can save money with.  Will help them find meals they can make with what they have in their houses. |
+
