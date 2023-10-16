@@ -33,3 +33,11 @@ As a Administrator, I want to be able to take a users entered recipe and format 
 - [ ] Administrator has easy access to user information
 - [ ] Administrator can design the recipe page with an auto formatting program
 
+
+**User Story:**
+As a general user, I want to be able to easily access recipes that are quick and easy to make. 
+
+**Acceptance Criteria:**
+ - [ ] User can choose an “under # minutes option”.
+ - [ ] User will be taken to a page of easier/quicker recipes.
+ - [ ] User can choose quick recipes as well as whatever ingredients they choose.
