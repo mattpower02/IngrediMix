@@ -11,8 +11,17 @@ You can access the Lean Canvas 1-page business plan for IngrediMix through this 
 
 ## Persona Grids
 
+https://docs.google.com/presentation/d/1yFkGYVCwufq8WortdgBsQT5dDQvZ7BkUorx8Jey1r2M/edit?usp=sharing
+
 | <h4> Persona Name </h4> | <h4> Pain Points/Needs </h4> |
 |-------------------|----------------------|
 | Low Income Person / Family | Low income for food, does not have money to spare for one-use ingredients, Needs to eat healthier meals, while saving money |
 | <h4> **Demographic Info** </h4> | <h4> **Solutions** </h4>|
 |Age: 21+, Children: None, Lives: Alone/spouse/family, Income: Low, Work day: 9am-5pm, Tech Savvy: Not very|Provide recipes with ingredients that are already owned. Give a good variety to avoid having the same meals over and over, which may be typical in low income households. |
+
+
+| <h4> Persona Name </h4> | <h4> Pain Points/Needs </h4> |
+|-------------------|----------------------|
+| Millennials | Quick and easy recipes for busy lifestyles, Budget-friendly recipes due to financial constraints, Recipes catering to various dietary restrictions, Digital methods for recipe discovery and tracking. |
+| <h4> **Demographic Info** </h4> | <h4> **Solutions** </h4>|
+|Age range: 27-42, Tech-savvy; reliant on smartphones and digital platforms, Often multitask: professionals, parents, students. |Mobile app with easy-to-follow recipes focusing on trending ingredients. Filter recipes based on dietary needs. User reviews and ratings for recipes. |
