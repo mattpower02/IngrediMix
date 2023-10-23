@@ -8,21 +8,22 @@
                 }
             },
             "assets": {
-                "65355e26b9c6f00053b30215": {
+                "65369f5f3c63506ba881f681": {
                     "externalStorageType": "GCS",
-                    "_id": "65355e26b9c6f00053b30215",
+                    "_id": "65369f5f3c63506ba881f681",
                     "size": "18563",
                     "mimetype": "image/png",
                     "encoding": "7bit",
                     "originalname": "ingredimix-high-resolution-color-logo.png",
-                    "backendURI": "/project/65355d83d0ee6a3f45b1e8ad/getasset/65355e26b9c6f00053b30215",
+                    "backendURI": "/project/65369f5f3c635080df81f67f/getasset/65369f5f3c63506ba881f681",
                     "name": "ingredimix-high-resolution-color-logo.png",
-                    "externalName": "users/64f9cc235b362b792d0a9e6f/projects/65355d83d0ee6a3f45b1e8ad/assets/65355e26b9c6f00053b30215",
+                    "externalName": "users/64f9cfcc06d0f0e0a35baeb9/projects/65369f5f3c635080df81f67f/assets/65369f5f3c63506ba881f681",
                     "createdAt": "2023-10-22T17:38:46.473Z",
                     "updatedAt": "2023-10-22T17:38:46.473Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cc235b362b792d0a9e6f/projects/65355d83d0ee6a3f45b1e8ad/assets/65355e26b9c6f00053b30215?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231022%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231022T173846Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=b90138138cf2904504cee7d9d39688d12acceb03fb98d082b8b032074749bd783bfdd4e7c992ec29c0d049157e31372425d3768308b564353a5f6a3c72c710e2e47aa619f9c791073d98fc5e8000aeba1c19f65663ec30977deffa02ff7cc6bf212d2c562d341e3f82e1e6443e9d96d2f1de7fad726f27ed9a0f3b6a4046bb020fde345bf5f32384adc0a3ff8b833f76f6b71b7ef4435a2700871c003cfe2ac6332ecb8c3989dba5579861ca8f14bf2681f29bb81e49f72502f1234414890830d051c0638a64133e556a05af0b56f0d26a41d35514f4e0736f54f094c8f13d4dc96cbbb1ed9c7685b57c838d5f5f4f4c5984f2d9ade8ae0094f22c1faf9c5adf",
-                    "signedUrlExpirationTime": 1698169126504
+                    "id": "65369f5f3c63506ba881f681",
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfcc06d0f0e0a35baeb9/projects/65369f5f3c635080df81f67f/assets/65369f5f3c63506ba881f681?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231023T163358Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=83f4223baa9af3d70b8aeda584cb266beb472fb746370d74159d46e12b0816fcefeaabf702f7430a0e7fc65d43feada15750c6e08c9e9bdcf3c5dc7d75d1c4d409e8191bf83cdade1fdb5b478ec88bf2c1da849f7ec8babead952ab92c002223de8bd63f366dda4078555edd8908f362cf4910ce1939289bfcd168e0713ea988cbd998edd99644c7f5f19aca9f0924928782add62beb87e1cffe1e68f11f95b23468f05fac7670940640fbc94d655d2d1c6af938ef583a7a45221a622c00a9471206febc21e1b00478b4b27aca7e1547ceac37d761fed7a4a54ef870763ddebe9bc5d6e63a504216da1a226a88fa667fb26692da3f1b83685fe24b63413afd11",
+                    "signedUrlExpirationTime": 1698251638159
                 }
             },
             "backendUpgradeVersion": 22,
@@ -68,8 +69,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": "AIzaSyCvfOGlZ6nH5JHBm4MSn17kp0IpApv5hQk",
-                "firebaseDatabaseURL": "https://ingredimix-c80c8-default-rtdb.firebaseio.com",
+                "firebaseAPIKey": "",
+                "firebaseDatabaseURL": "",
                 "stripePublishableKeyTest": "",
                 "stripePublishableKeyLive": "",
                 "stripeAccountId": null,
@@ -112,8 +113,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": "AIzaSyCvfOGlZ6nH5JHBm4MSn17kp0IpApv5hQk",
-                "firebaseDatabaseURL": "https://ingredimix-c80c8-default-rtdb.firebaseio.com",
+                "firebaseAPIKey": "",
+                "firebaseDatabaseURL": "",
                 "stripePublishableKeyTest": "",
                 "stripePublishableKeyLive": "",
                 "stripeAccountId": null,
