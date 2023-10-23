@@ -1,4 +1,5 @@
 {
+    "id": "0d2ec96d-4f4d-432d-9332-87d7dda614e0",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -69,7 +70,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -831,7 +831,6 @@
             "name": "Logo"
         }
     ],
-    "id": "0d2ec96d-4f4d-432d-9332-87d7dda614e0",
     "thunkableVersion": 424,
     "name": "Sign Up"
 }
