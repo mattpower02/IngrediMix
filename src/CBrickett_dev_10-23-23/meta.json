@@ -37,6 +37,24 @@
                     "enabledFeatures": {
                         "iap": false
                     }
+                },
+                "54ffffd8-6ee5-4b5e-b042-49e825fd6cdf": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [
+                            "android.permission.CAMERA"
+                        ],
+                        "ios": [
+                            {
+                                "name": "NSPhotoLibraryUsageDescription",
+                                "label": "Photos",
+                                "hint": "Describe why your app uses photos."
+                            }
+                        ]
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -57,7 +75,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "IngrediMix Master copy1",
+            "projectName": "IngrediMix Master copy",
             "settings": {
                 "teamId": null,
                 "appName": "holder",
@@ -69,8 +87,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": "",
-                "firebaseDatabaseURL": "",
+                "firebaseAPIKey": "AIzaSyCvfOGlZ6nH5JHBm4MSn17kp0IpApv5hQk",
+                "firebaseDatabaseURL": "https://ingredimix-c80c8-default-rtdb.firebaseio.com",
                 "stripePublishableKeyTest": "",
                 "stripePublishableKeyLive": "",
                 "stripeAccountId": null,
@@ -88,7 +106,11 @@
                 "cloudinaryAPIKey": "",
                 "cloudinaryAPISecret": "",
                 "permissions": {
-                    "ios": {}
+                    "ios": {
+                        "usageDescriptions": {
+                            "NSPhotoLibraryUsageDescription": ""
+                        }
+                    }
                 },
                 "googleMapAPIKeyAndroid": null,
                 "googleMapAPIKeyIOS": null,
@@ -113,8 +135,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": "",
-                "firebaseDatabaseURL": "",
+                "firebaseAPIKey": "AIzaSyCvfOGlZ6nH5JHBm4MSn17kp0IpApv5hQk",
+                "firebaseDatabaseURL": "https://ingredimix-c80c8-default-rtdb.firebaseio.com",
                 "stripePublishableKeyTest": "",
                 "stripePublishableKeyLive": "",
                 "stripeAccountId": null,
@@ -132,7 +154,11 @@
                 "cloudinaryAPIKey": "",
                 "cloudinaryAPISecret": "",
                 "permissions": {
-                    "ios": {}
+                    "ios": {
+                        "usageDescriptions": {
+                            "NSPhotoLibraryUsageDescription": ""
+                        }
+                    }
                 },
                 "googleMapAPIKeyAndroid": null,
                 "googleMapAPIKeyIOS": null,
