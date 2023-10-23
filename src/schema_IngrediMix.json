@@ -1,25 +1,25 @@
 {
-  "$schema": "http://json-schema.org/draft-07/schema#", // Specify the JSON Schema version
+  "$schema": "http://json-schema.org/draft-07/schema#",
 
-  "type": "object", // The root should be an object
+  "type": "object",
 
   "additionalProperties": {
-    "type": "object", // Each property should be an object
+    "type": "object",
     "properties": {
       "age": {
-        "type": "integer" // 'age' should be an integer
+        "type": "integer"
       },
       "gender": {
-        "type": "string" // 'gender' should be a string
+        "type": "string"
       },
       "image": {
-        "type": "string", // 'image' should be a string
-        "format": "uri" // 'image' should be a valid URI
+        "type": "string",
+        "format": "uri"
       },
       "name": {
-        "type": "string" // 'name' should be a string
+        "type": "string"
       }
     },
-    "required": ["age", "gender", "image", "name"] // All properties are required
+    "required": ["age", "gender", "image", "name"]
   }
 }
