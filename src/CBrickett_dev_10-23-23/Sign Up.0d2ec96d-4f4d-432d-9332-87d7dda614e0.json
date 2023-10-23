@@ -243,13 +243,13 @@
                     "translatedName": "Text Input",
                     "properties": {
                         "Hint": "Type here",
-                        "Height": 36,
-                        "Width": 177,
+                        "Height": 38,
+                        "Width": 179,
                         "Visible": true,
-                        "X": 24,
-                        "Y": 239,
-                        "RelativeX": 0,
-                        "RelativeY": 10,
+                        "X": 25,
+                        "Y": 240,
+                        "RelativeX": 1,
+                        "RelativeY": 11,
                         "ResizeMode": "STRETCH",
                         "style": {
                             "color": "rgba(0, 0, 0, 1)",
@@ -293,7 +293,7 @@
                         "underlineColorAndroid": "rgba(0, 0, 0, 0)",
                         "ParentId": "0d2ec96d-4f4d-432d-9332-87d7dda614e0",
                         "position": "absolute",
-                        "edgeOffsets": 231,
+                        "edgeOffsets": 240,
                         "placeholder": "Type here",
                         "secureTextEntry": true
                     },
