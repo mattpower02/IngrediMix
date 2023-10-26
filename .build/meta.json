@@ -4,7 +4,21 @@
             "apiComponents": {
                 "ApiContainer": {
                     "id": "ApiContainer",
-                    "children": []
+                    "children": [
+                        {
+                            "type": "Open AI Services",
+                            "translatedName": "Open AI Service",
+                            "isApi": true,
+                            "reactType": "OpenAIServices",
+                            "properties": {
+                                "APIKey": "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"
+                            },
+                            "children": [],
+                            "id": "e8ea8d7d-530a-41e9-839b-4f1737969a4f",
+                            "thunkableVersion": 425,
+                            "name": "Open_AI_Service1"
+                        }
+                    ]
                 }
             },
             "assets": {
@@ -21,13 +35,43 @@
                     "createdAt": "2023-10-22T17:38:46.473Z",
                     "updatedAt": "2023-10-22T17:38:46.473Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cc235b362b792d0a9e6f/projects/65355d83d0ee6a3f45b1e8ad/assets/65355e26b9c6f00053b30215?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231022%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231022T173846Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=b90138138cf2904504cee7d9d39688d12acceb03fb98d082b8b032074749bd783bfdd4e7c992ec29c0d049157e31372425d3768308b564353a5f6a3c72c710e2e47aa619f9c791073d98fc5e8000aeba1c19f65663ec30977deffa02ff7cc6bf212d2c562d341e3f82e1e6443e9d96d2f1de7fad726f27ed9a0f3b6a4046bb020fde345bf5f32384adc0a3ff8b833f76f6b71b7ef4435a2700871c003cfe2ac6332ecb8c3989dba5579861ca8f14bf2681f29bb81e49f72502f1234414890830d051c0638a64133e556a05af0b56f0d26a41d35514f4e0736f54f094c8f13d4dc96cbbb1ed9c7685b57c838d5f5f4f4c5984f2d9ade8ae0094f22c1faf9c5adf",
-                    "signedUrlExpirationTime": 1698169126504
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cc235b362b792d0a9e6f/projects/65355d83d0ee6a3f45b1e8ad/assets/65355e26b9c6f00053b30215?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231026%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231026T143344Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=633baeed2cf04b3f465e09760d36c5e1eaef2cc119695c9ed730bf85bd689fdb41c3b4cf0cb9ca6b2aafc1cd6c6fff06dbbce1343297ea0a52dfc34c503a7db28406664b31ed86176b42f64fa0f30ab9a62d1950675eaaeb41e57408126883f64171897122d2565d020fc4d13f770b7cdc2963ec3f19fd585da6173f3fe0cf96fa628d1fc1ab91aaed667b6719870483bd8d9db5bfd0a6962d29851bc5e5692026abdfdb7a2c4626fd2ffc63e563d3d94cda1021d80a9198b6ceaab5d3aa76e0e00c4ab5e0fe8adf989932e5bd8f3cc077eba06a96c0092c3750724d31f013da02f32e85dee61155832d7df0d74feca829296cea2f31fa4d500efd279702b251",
+                    "signedUrlExpirationTime": 1698503624274
                 }
             },
-            "backendUpgradeVersion": 22,
+            "backendUpgradeVersion": 23,
             "blockly": {
                 "0d2ec96d-4f4d-432d-9332-87d7dda614e0": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "54ffffd8-6ee5-4b5e-b042-49e825fd6cdf": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "ef7644d5-f5e2-429c-aae4-c02cfc3d50ec": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "dffadf5b-657f-41b6-96a1-71bfaebb08ee": {
                     "xml": "",
                     "permissions": {
                         "android": [],
@@ -45,8 +89,18 @@
             ],
             "components": {
                 "children": [
-                    "Sign Up.0d2ec96d-4f4d-432d-9332-87d7dda614e0",
-                    "Profile Screen.54ffffd8-6ee5-4b5e-b042-49e825fd6cdf"
+                    {
+                        "id": "0d2ec96d-4f4d-432d-9332-87d7dda614e0"
+                    },
+                    {
+                        "id": "54ffffd8-6ee5-4b5e-b042-49e825fd6cdf"
+                    },
+                    {
+                        "id": "ef7644d5-f5e2-429c-aae4-c02cfc3d50ec"
+                    },
+                    {
+                        "id": "dffadf5b-657f-41b6-96a1-71bfaebb08ee"
+                    }
                 ]
             },
             "figmaComponents": {},
@@ -178,6 +232,11 @@
                     "scope": "APP",
                     "name": "User ID",
                     "screenId": "0d2ec96d-4f4d-432d-9332-87d7dda614e0"
+                },
+                "632bcaa2-7506-4935-8d7a-ecfb884ab494": {
+                    "scope": "STORED",
+                    "name": "Recipe",
+                    "screenId": "ef7644d5-f5e2-429c-aae4-c02cfc3d50ec"
                 }
             },
             "defaultDesignerDevice": "PHONE",
