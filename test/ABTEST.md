@@ -1,4 +1,4 @@
-
+#1
 
 A/B Test Name: Writing or drop down
 
@@ -19,5 +19,11 @@ Experiment -  As the product manager I will have 50% of the users have version A
 
 
 Variations - In Version A would be the normal app where the user would type in the ingredients.  And in Version B would be where the user finds the ingredients on a drop down menu.
+
+
+
+
+
+#2
 
 
