@@ -1,0 +1,28 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "bqnovO2Lz6U0cWYECIDahaf7bGA3": {
+      "type": "object",
+      "properties": {
+        "age": {
+          "type": "string"
+        },
+        "gender": {
+          "type": "string"
+        },
+        "image": {
+          "type": "string",
+          "format": "uri"
+        },
+        "looking_to": {
+          "type": "string"
+        },
+        "username": {
+          "type": "string"
+        }
+      },
+      "required": ["age", "gender", "image", "looking_to", "username"]
+    }
+  }
+}
