@@ -17,3 +17,23 @@ Variations - In this section, describe what variations you would like to test. L
 
 Add to your team repo’s a PBI for each A/B test. Each PBI’s content should be a summary of one of the A/B tests with a reference to ABTEST.md for detail.   Add a label to your repo for “A/B Test”. Put that label on the PBI instead of the “User Story” label that you have typically used.
 
+
+
+A/B Test Name: Writing or drop down
+User Story Number: 2
+Metric (from the HEART grid): Happiness
+Hypothesis:
+As a User I like choosing the ingredients with a drop down menu better than writing it, because it is cleaner than writing it down.
+
+As a project manager I can track this information by seeing what version the user has with similar inputs in the app.  
+For example if two users both put in ingredients for hamburgers, the drop down menu would have a longer app usage. 
+We will have to track what version of the app certain people have and the amount of time the user was on the app for.
+
+
+
+Experiment - Detail out the experiment setup that you will use to test your hypothesis using Firebase capabilities. 
+Describe the audiences – will all users be able to view the experiment? Or you will only allocate x% of your user base to the experiment? Lay out the details with the rationale behind this decision. Describe the tracking using Firebase Analytics. With the success metrics that you have defined, what tracking needs to be set up? 
+
+Variations - In Version A would be the normal app where the user would type in the ingredients.  And in Version B would be where the user finds the ingredients on a drop down menu.
+
+
