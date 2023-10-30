@@ -27,4 +27,16 @@ Variations - In Version A would be the normal app where the user would type in t
 
 #2
 
+A/B Test Name: Desired Cooking Time Feature
+User Story Number: 2
+Metric (from the HEART grid): Happiness and Engagement
+Hypothesis:
+As a product manager, the users will be able to input the amount of time I have to cook instead of their gender so they can get a recipe suitable for the time they have to cook , increasing engagement and satisfaction.
+
+Experiment - For this experiment we can use the screen time and event monitoring to see how effective this feature is. If recipe saving and search events increase this is a sign that the new feature is increasing satisfaction and engagement. Also, if time change events occur frequently, this shows that the new feature is being used. The tracking that would need to be set up for this would be setting recipe saves, recipe searches, and desired time changes as events that are logged in Firebase Analytics. Finally, it is reasonable to test this experiment with 50% of the users to get an accurate representation of the variations performance versus the control performance.
+
+
+Variations - In Version A would be the normal app where the user would type in their gender. And in Version B the gender input option would be replaced with a desired cooking time option where the user can type in the amount of minutes they would like to cook for.
+
+
 
