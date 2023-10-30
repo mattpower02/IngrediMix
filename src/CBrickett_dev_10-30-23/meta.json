@@ -1,0 +1,249 @@
+{
+    "data": {
+        "project": {
+            "apiComponents": {
+                "ApiContainer": {
+                    "id": "ApiContainer",
+                    "children": [
+                        {
+                            "type": "Open AI Services",
+                            "translatedName": "Open AI Service",
+                            "isApi": true,
+                            "reactType": "OpenAIServices",
+                            "properties": {
+                                "APIKey": "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"
+                            },
+                            "children": [],
+                            "id": "e8ea8d7d-530a-41e9-839b-4f1737969a4f",
+                            "thunkableVersion": 425,
+                            "name": "Open_AI_Service1"
+                        }
+                    ]
+                }
+            },
+            "assets": {
+                "65355e26b9c6f00053b30215": {
+                    "externalStorageType": "GCS",
+                    "_id": "65355e26b9c6f00053b30215",
+                    "size": "18563",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "ingredimix-high-resolution-color-logo.png",
+                    "backendURI": "/project/65355d83d0ee6a3f45b1e8ad/getasset/65355e26b9c6f00053b30215",
+                    "name": "ingredimix-high-resolution-color-logo.png",
+                    "externalName": "users/64f9cc235b362b792d0a9e6f/projects/65355d83d0ee6a3f45b1e8ad/assets/65355e26b9c6f00053b30215",
+                    "createdAt": "2023-10-22T17:38:46.473Z",
+                    "updatedAt": "2023-10-22T17:38:46.473Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cc235b362b792d0a9e6f/projects/65355d83d0ee6a3f45b1e8ad/assets/65355e26b9c6f00053b30215?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231030%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231030T160049Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=885af4f2de23298ba7aa5cb89f219b1c23a797a485f01047af56860c1f1c27c02a0ef49bec51f740cfe2a57bd76eaca0e934e3e265561e18233d735a53aa3d9667e60ba93c0303250e2d9df07d0de3147ef03102d4e34d259f8d726ba1a646cdf24703ccb5f3e7733fdeb68475b582434dd80c35663d4dcfeac2ffc55b1d4e4ec7945fb18d799744b3ed95521c2fc3151b47140cec44954a867d1e9437d0e61aaa75a9169099009a65f013e67eecbe069bb10dadf8d9611995946bd5a603bf6110cc0458670dbfc462df8f0f8940b11d50e788235701a504b6070e6eb8aab80b09eef01aea4ebf48882eb131bfd61cb372fb20d8e1154eb9e72cae6bc4ee4896",
+                    "signedUrlExpirationTime": 1698854449536
+                }
+            },
+            "backendUpgradeVersion": 23,
+            "blockly": {
+                "0d2ec96d-4f4d-432d-9332-87d7dda614e0": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "54ffffd8-6ee5-4b5e-b042-49e825fd6cdf": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "ef7644d5-f5e2-429c-aae4-c02cfc3d50ec": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "dffadf5b-657f-41b6-96a1-71bfaebb08ee": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                }
+            },
+            "categories": [
+                "Education",
+                "Graphic & Design",
+                "Productivity"
+            ],
+            "components": {
+                "children": [
+                    {
+                        "id": "0d2ec96d-4f4d-432d-9332-87d7dda614e0"
+                    },
+                    {
+                        "id": "54ffffd8-6ee5-4b5e-b042-49e825fd6cdf"
+                    },
+                    {
+                        "id": "ef7644d5-f5e2-429c-aae4-c02cfc3d50ec"
+                    },
+                    {
+                        "id": "dffadf5b-657f-41b6-96a1-71bfaebb08ee"
+                    }
+                ]
+            },
+            "figmaComponents": {},
+            "description": null,
+            "icon": null,
+            "projectName": "IngrediMix Master copy1",
+            "settings": {
+                "teamId": null,
+                "appName": "holder",
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": "AIzaSyCvfOGlZ6nH5JHBm4MSn17kp0IpApv5hQk",
+                "firebaseDatabaseURL": "https://ingredimix-c80c8-default-rtdb.firebaseio.com",
+                "stripePublishableKeyTest": "",
+                "stripePublishableKeyLive": "",
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": "",
+                "imageRecognizerServerURL": "",
+                "imageRecognizerSubscriptionKey": "",
+                "cloudName": "",
+                "cloudinaryAPIKey": "",
+                "cloudinaryAPISecret": "",
+                "permissions": {
+                    "ios": {}
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "projectSettings": {
+                "teamId": null,
+                "appName": "holder",
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": "AIzaSyCvfOGlZ6nH5JHBm4MSn17kp0IpApv5hQk",
+                "firebaseDatabaseURL": "https://ingredimix-c80c8-default-rtdb.firebaseio.com",
+                "stripePublishableKeyTest": "",
+                "stripePublishableKeyLive": "",
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": "",
+                "imageRecognizerServerURL": "",
+                "imageRecognizerSubscriptionKey": "",
+                "cloudName": "",
+                "cloudinaryAPIKey": "",
+                "cloudinaryAPISecret": "",
+                "permissions": {
+                    "ios": {}
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "hasAdmob": false,
+            "hasBluetoothLowEnergy": null,
+            "hasPushNotification": false,
+            "hasAssistant": null,
+            "dataSourceLinks": [],
+            "localDataSources": [],
+            "customProperties": [],
+            "modules": [],
+            "usesDragDropUi": true,
+            "totalCopy": "0",
+            "totalStar": "0",
+            "starAction": "star",
+            "variables": {
+                "4bc06177-280a-41b5-8b1b-1690a132d26a": {
+                    "scope": "APP",
+                    "name": "currentlysigningup",
+                    "screenId": "0d2ec96d-4f4d-432d-9332-87d7dda614e0"
+                },
+                "2d5bcad3-d270-47af-8af3-d2a88bf13a4a": {
+                    "scope": "STORED",
+                    "name": "email",
+                    "screenId": "0d2ec96d-4f4d-432d-9332-87d7dda614e0"
+                },
+                "9e8647f2-4eca-418d-b110-b2bcecf7ffea": {
+                    "scope": "APP",
+                    "name": "session email",
+                    "screenId": "0d2ec96d-4f4d-432d-9332-87d7dda614e0"
+                },
+                "8ec9ff78-e1ec-4f3d-a46f-cc41c4a66ef7": {
+                    "scope": "STORED",
+                    "name": "password",
+                    "screenId": "0d2ec96d-4f4d-432d-9332-87d7dda614e0"
+                },
+                "35d73e06-8cc3-4bf7-ba92-b04b436ecac2": {
+                    "scope": "APP",
+                    "name": "User ID",
+                    "screenId": "0d2ec96d-4f4d-432d-9332-87d7dda614e0"
+                },
+                "632bcaa2-7506-4935-8d7a-ecfb884ab494": {
+                    "scope": "STORED",
+                    "name": "Recipe",
+                    "screenId": "ef7644d5-f5e2-429c-aae4-c02cfc3d50ec"
+                }
+            },
+            "defaultDesignerDevice": "PHONE",
+            "defaultDesignerOrientation": "PORTRAIT",
+            "schemaVersion": 2,
+            "organization": null,
+            "__typename": "Project"
+        }
+    }
+}
