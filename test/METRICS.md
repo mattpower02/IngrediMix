@@ -4,4 +4,6 @@
 
 * Metric 2: Average Time the user has spent on the app per day. - Log how long the user is on the app so we can get an average of all the users together
 
-*  Metric 3: Download Rate - Using the Statistics page on Google Play we can monitor the number of install events per device of the application
+* Metric 3: Download Rate - Using the Statistics page on Google Play we can monitor the number of install events per device of the application
+
+* Metric 4: Churn Rate - Track number of downloads and active users through Google Play store. Track the number of visits to each page of the app using Google Analytics to see how many of our users, logged in our     firebase, are using the app consistently.
