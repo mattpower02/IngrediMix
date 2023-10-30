@@ -7,7 +7,8 @@ User Story Number: 2
 Metric (from the HEART grid): Happiness
 
 Hypothesis:
-As a User I like choosing the ingredients with a drop down menu better than writing it, because it is cleaner than writing it down.
+As a Product manager the Users will get two versions of the app where version A, the users will like choosing the ingredients with a drop down menu better than 
+writing it, because it is cleaner than writing it down.
 
 As a project manager I can track this information by seeing what version the user has with similar inputs in the app.  
 For example if two users both put in ingredients for hamburgers, the drop down menu would have a longer app usage. 
