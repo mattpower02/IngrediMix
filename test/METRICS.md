@@ -3,3 +3,5 @@
 * Metric 1: Average rate of users searching for recipes - Log each recipe search as an event so that when a search for a recipe is made it is logged and kept track of.
 
 * Metric 2: Average Time the user has spent on the app per day. - Log how long the user is on the app so we can get an average of all the users together
+
+*  Metric 3: Download Rate - Using the Statistics page on Google Play we can monitor the number of install events per device of the application
