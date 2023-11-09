@@ -1,0 +1,416 @@
+{
+    "data": {
+        "project": {
+            "apiComponents": {
+                "ApiContainer": {
+                    "id": "ApiContainer",
+                    "children": [
+                        {
+                            "type": "Alert",
+                            "translatedName": "Alert",
+                            "isApi": true,
+                            "properties": {
+                                "ConfirmButton": {
+                                    "Text": "Confirm"
+                                },
+                                "CancelButton": {
+                                    "Text": "Cancel"
+                                }
+                            },
+                            "children": [],
+                            "id": "5eb3d9dc-fb7b-480a-94a8-695c4eb124c4",
+                            "thunkableVersion": 428,
+                            "name": "Alert1"
+                        },
+                        {
+                            "type": "Open AI Services",
+                            "translatedName": "Open AI Service",
+                            "isApi": true,
+                            "reactType": "OpenAIServices",
+                            "properties": {
+                                "APIKey": "{Enter Your API Key Here}"
+                            },
+                            "children": [],
+                            "id": "2d756a01-3fee-459a-827b-f76d3b2a1a1b",
+                            "thunkableVersion": 428,
+                            "name": "Open_AI_Service2"
+                        },
+                        {
+                            "type": "Open AI Services",
+                            "translatedName": "Open AI Service",
+                            "isApi": true,
+                            "reactType": "OpenAIServices",
+                            "properties": {
+                                "APIKey": "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"
+                            },
+                            "children": [],
+                            "id": "e8ea8d7d-530a-41e9-839b-4f1737969a4f",
+                            "thunkableVersion": 425,
+                            "name": "Open_AI_Service1"
+                        }
+                    ]
+                }
+            },
+            "assets": {
+                "65492371584d5916d9f313a5": {
+                    "name": "ingredimix-high-resolution-color-logo.png",
+                    "originalname": "ingredimix-high-resolution-color-logo.png",
+                    "externalStorageType": "GCS",
+                    "externalName": "users/64f229e8c4854a840570ffdd/projects/65492371584d5916d9f313a1/assets/65492371584d5916d9f313a5",
+                    "backendURI": "/project/65492371584d5916d9f313a1/getasset/65492371584d5916d9f313a5",
+                    "size": "18563",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "_id": "65492371584d5916d9f313a5",
+                    "createdAt": "2023-10-22T17:38:46.473Z",
+                    "updatedAt": "2023-10-22T17:38:46.473Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f229e8c4854a840570ffdd/projects/65492371584d5916d9f313a1/assets/65492371584d5916d9f313a5?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231109%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231109T144518Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=92a215f9b1d21534f2de029fa6e8a07c0d7558f893dc50da832ceb6cf424256a606024e521bc3c4d63513ac2058a2fdb6a7ec11dc9343e94b0986b9694a9670eb6b6f60d8c1b55f5ccb6a2e5c04f52ee62f5eff649e08e8db5019ce40d55b5b1eaaaa269af9bd0f3c53adbb7d55aee5548f989a0c3021ad5d0b4fc565a0e51b0c54348e721bd0bbd8c3115485f91abe5524a0f9c962fb5d065ceafdfe617d1a5bf2b49b91d157da3a40c7b0f6dc909fd1e362f6cac130f1e63fa3fb716c1694100a3823a5aa3e4ba783ba421d866b77cc86a8e21e908cf5660e6ad3cf5ccf23a32d4bba84057a82f6bcdbb20d4846f29db527f619d548ee6c2be7bc38b0ff5c3",
+                    "signedUrlExpirationTime": 1699713918658
+                },
+                "65492371584d5916d9f313a7": {
+                    "name": "lol.jpg",
+                    "originalname": "lol.jpg",
+                    "externalStorageType": "GCS",
+                    "externalName": "users/64f229e8c4854a840570ffdd/projects/65492371584d5916d9f313a1/assets/65492371584d5916d9f313a7",
+                    "backendURI": "/project/65492371584d5916d9f313a1/getasset/65492371584d5916d9f313a7",
+                    "size": "10584",
+                    "mimetype": "image/jpeg",
+                    "encoding": "7bit",
+                    "_id": "65492371584d5916d9f313a7",
+                    "createdAt": "2023-11-02T15:28:34.890Z",
+                    "updatedAt": "2023-11-02T15:28:34.890Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f229e8c4854a840570ffdd/projects/65492371584d5916d9f313a1/assets/65492371584d5916d9f313a7?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231109%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231109T144518Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=2477bf3e77b8c56d2b24160be7220b849512d6f05b71ecd1dfd5fb03061304fa46b5e31a368ac35a5a5d0c9875b64381ace706c1e92789c2172dc726929ea526e7a894ce4c39256745ab0af993a6a7da57d7e79ee7a36858680411e566834fccf711a517b7583d7b6a26e5fc08d2f67b6c9ba92fe8c3e120a88bb19f4e788e1a98a036b2954da12f6cf5f875e0b0e6062aec5b2e4988f63beb87d5db20d322ebe6b3baeef0987bcf00b2413a258f7444eafecdd50c490731110a30ccc7f52f74bfdfde798d36fe68b61a1cdb6558186ae15ba43268e3912aa46ccba4d7723dc420a6717b1d1747fd87cd3d7666bd3f8ebdf2c83a42ad75fdf6f97a539dd51e97",
+                    "signedUrlExpirationTime": 1699713918661
+                }
+            },
+            "backendUpgradeVersion": 23,
+            "blockly": {
+                "0d2ec96d-4f4d-432d-9332-87d7dda614e0": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "54ffffd8-6ee5-4b5e-b042-49e825fd6cdf": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [
+                            "android.permission.CAMERA"
+                        ],
+                        "ios": [
+                            {
+                                "name": "NSPhotoLibraryUsageDescription",
+                                "label": "Photos",
+                                "hint": "Describe why your app uses photos."
+                            }
+                        ]
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "ef7644d5-f5e2-429c-aae4-c02cfc3d50ec": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "dffadf5b-657f-41b6-96a1-71bfaebb08ee": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "b8c338c8-41c9-49c6-a6df-e4dab8e64709": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "9defed4b-a711-4801-a07e-2b118453cb03": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "41305511-6f49-49b7-ab47-43aa87192e60": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                }
+            },
+            "categories": [
+                "Education",
+                "Graphic & Design",
+                "Productivity"
+            ],
+            "components": {
+                "children": [
+                    {
+                        "id": "0d2ec96d-4f4d-432d-9332-87d7dda614e0"
+                    },
+                    {
+                        "id": "54ffffd8-6ee5-4b5e-b042-49e825fd6cdf"
+                    },
+                    {
+                        "id": "ef7644d5-f5e2-429c-aae4-c02cfc3d50ec"
+                    },
+                    {
+                        "id": "dffadf5b-657f-41b6-96a1-71bfaebb08ee"
+                    },
+                    {
+                        "id": "b8c338c8-41c9-49c6-a6df-e4dab8e64709"
+                    },
+                    {
+                        "id": "9defed4b-a711-4801-a07e-2b118453cb03"
+                    },
+                    {
+                        "id": "41305511-6f49-49b7-ab47-43aa87192e60"
+                    }
+                ]
+            },
+            "figmaComponents": {},
+            "description": null,
+            "icon": null,
+            "projectName": "IngrediMix-11/9/23",
+            "settings": {
+                "teamId": null,
+                "appName": "IngrediMix",
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": "AIzaSyCvfOGlZ6nH5JHBm4MSn17kp0IpApv5hQk",
+                "firebaseDatabaseURL": "https://ingredimix-c80c8-default-rtdb.firebaseio.com",
+                "stripePublishableKeyTest": null,
+                "stripePublishableKeyLive": null,
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": null,
+                "imageRecognizerServerURL": null,
+                "imageRecognizerSubscriptionKey": null,
+                "cloudName": null,
+                "cloudinaryAPIKey": null,
+                "cloudinaryAPISecret": null,
+                "permissions": {
+                    "ios": {
+                        "usageDescriptions": {}
+                    }
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "projectSettings": {
+                "teamId": null,
+                "appName": "IngrediMix",
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": "AIzaSyCvfOGlZ6nH5JHBm4MSn17kp0IpApv5hQk",
+                "firebaseDatabaseURL": "https://ingredimix-c80c8-default-rtdb.firebaseio.com",
+                "stripePublishableKeyTest": null,
+                "stripePublishableKeyLive": null,
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": null,
+                "imageRecognizerServerURL": null,
+                "imageRecognizerSubscriptionKey": null,
+                "cloudName": null,
+                "cloudinaryAPIKey": null,
+                "cloudinaryAPISecret": null,
+                "permissions": {
+                    "ios": {
+                        "usageDescriptions": {}
+                    }
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "hasAdmob": false,
+            "hasBluetoothLowEnergy": null,
+            "hasPushNotification": false,
+            "hasAssistant": null,
+            "dataSourceLinks": [],
+            "localDataSources": [],
+            "customProperties": [],
+            "modules": [],
+            "usesDragDropUi": true,
+            "totalCopy": "0",
+            "totalStar": "0",
+            "starAction": "star",
+            "variables": {
+                "4bc06177-280a-41b5-8b1b-1690a132d26a": {
+                    "scope": "APP",
+                    "name": "currentlysigningup",
+                    "screenId": "0d2ec96d-4f4d-432d-9332-87d7dda614e0"
+                },
+                "2d5bcad3-d270-47af-8af3-d2a88bf13a4a": {
+                    "scope": "STORED",
+                    "name": "email",
+                    "screenId": "0d2ec96d-4f4d-432d-9332-87d7dda614e0"
+                },
+                "9e8647f2-4eca-418d-b110-b2bcecf7ffea": {
+                    "scope": "APP",
+                    "name": "session email",
+                    "screenId": "0d2ec96d-4f4d-432d-9332-87d7dda614e0"
+                },
+                "8ec9ff78-e1ec-4f3d-a46f-cc41c4a66ef7": {
+                    "scope": "STORED",
+                    "name": "password",
+                    "screenId": "0d2ec96d-4f4d-432d-9332-87d7dda614e0"
+                },
+                "35d73e06-8cc3-4bf7-ba92-b04b436ecac2": {
+                    "scope": "APP",
+                    "name": "User ID",
+                    "screenId": "0d2ec96d-4f4d-432d-9332-87d7dda614e0"
+                },
+                "632bcaa2-7506-4935-8d7a-ecfb884ab494": {
+                    "scope": "STORED",
+                    "name": "Recipe",
+                    "screenId": "ef7644d5-f5e2-429c-aae4-c02cfc3d50ec"
+                },
+                "b09bff5e-1752-4031-9034-a7aa0efdc78a": {
+                    "scope": "STORED",
+                    "name": "recipe1",
+                    "screenId": "dffadf5b-657f-41b6-96a1-71bfaebb08ee"
+                },
+                "dc05f39a-ec2e-42bf-a1c2-633a23a5b3b7": {
+                    "scope": "STORED",
+                    "name": "recipe2",
+                    "screenId": "dffadf5b-657f-41b6-96a1-71bfaebb08ee"
+                },
+                "05305d95-a1cd-4b14-a89b-3178abbc1b2d": {
+                    "scope": "STORED",
+                    "name": "recipe6",
+                    "screenId": "dffadf5b-657f-41b6-96a1-71bfaebb08ee"
+                },
+                "482bf19a-31ba-4d24-b603-b5f62fb89682": {
+                    "scope": "STORED",
+                    "name": "recipe3",
+                    "screenId": "dffadf5b-657f-41b6-96a1-71bfaebb08ee"
+                },
+                "b30b9fae-0303-4aea-88b4-f20f99ccd0b0": {
+                    "scope": "STORED",
+                    "name": "recipe4",
+                    "screenId": "dffadf5b-657f-41b6-96a1-71bfaebb08ee"
+                },
+                "4c67254d-6d10-484b-bffc-a6455bc165da": {
+                    "scope": "STORED",
+                    "name": "recipe5",
+                    "screenId": "dffadf5b-657f-41b6-96a1-71bfaebb08ee"
+                },
+                "4a8f2811-0c9f-4c38-b0c6-4bcd1f0b6cff": {
+                    "scope": "STORED",
+                    "name": "name1",
+                    "screenId": "dffadf5b-657f-41b6-96a1-71bfaebb08ee"
+                },
+                "67dde28a-3235-4521-be77-8b4475ab8bdd": {
+                    "scope": "STORED",
+                    "name": "name2",
+                    "screenId": "dffadf5b-657f-41b6-96a1-71bfaebb08ee"
+                },
+                "118f3772-fd6a-4476-8e03-e2254b28cd53": {
+                    "scope": "STORED",
+                    "name": "name3",
+                    "screenId": "dffadf5b-657f-41b6-96a1-71bfaebb08ee"
+                },
+                "e440396f-4c66-4ecb-a470-7d9bfeadf84b": {
+                    "scope": "STORED",
+                    "name": "name4",
+                    "screenId": "dffadf5b-657f-41b6-96a1-71bfaebb08ee"
+                },
+                "97339dfa-1279-4596-b680-28c167ec5884": {
+                    "scope": "STORED",
+                    "name": "name5",
+                    "screenId": "dffadf5b-657f-41b6-96a1-71bfaebb08ee"
+                },
+                "55a930d7-742e-412e-978f-c16d0b56983b": {
+                    "scope": "STORED",
+                    "name": "name6",
+                    "screenId": "dffadf5b-657f-41b6-96a1-71bfaebb08ee"
+                },
+                "f836287c-1965-42e2-b424-8258f3b4ddd3": {
+                    "scope": "STORED",
+                    "name": "test",
+                    "screenId": "dffadf5b-657f-41b6-96a1-71bfaebb08ee"
+                },
+                "37b24607-2240-49f5-9c32-d3c98428f7c7": {
+                    "scope": "STORED",
+                    "name": "time",
+                    "screenId": "ef7644d5-f5e2-429c-aae4-c02cfc3d50ec"
+                }
+            },
+            "defaultDesignerDevice": "PHONE",
+            "defaultDesignerOrientation": "PORTRAIT",
+            "schemaVersion": 2,
+            "organization": null,
+            "__typename": "Project"
+        }
+    }
+}
