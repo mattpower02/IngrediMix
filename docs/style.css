@@ -21,14 +21,6 @@ header {
     box-shadow: 0 4px 8px rgba(0,0,0,0,1);
 }
 
-#product-info h2 {
-    text-align: center;
-}
-
-#product-info p {
-    text-align: justify;
-}
-
 
 footer {
     text-align: center;
