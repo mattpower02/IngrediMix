@@ -5,10 +5,10 @@
 ![image](https://github.com/mattpower02/IngrediMix/assets/71105642/5299a0b3-36b0-4a5c-9866-38b7ed04a922)
 
 US2:
-![US3_AC1_test](../src/test_photos/us2ac1.jpg)
-![US3_AC1_test](../src/test_photos/us2ac2.jpg)
-![US3_AC1_test](../src/test_photos/us2ac3.jpg)
-![US3_AC1_test](../src/test_photos/us2ac4.jpg)
+![US3_AC1_test](../src/test_photos/US2AC1.jpg)
+![US3_AC1_test](../src/test_photos/US2AC2.jpg)
+![US3_AC1_test](../src/test_photos/US2AC3.jpg)
+![US3_AC1_test](../src/test_photos/US2AC4.jpg)
 
 US3:
 ![US3_AC1_test](../src/test_photos/us3ac1.jpg)
