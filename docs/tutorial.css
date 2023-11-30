@@ -63,6 +63,113 @@ header {
     background-color: crimson;
 }
 
+#make-account {
+    text-align: center;
+    padding: 20px;
+}
+
+.account-step1 {
+    margin-bottom: 40px;
+}
+
+.account-step1 img {
+    max-width: 25%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.account-step1 p {
+    font-size: 16px;
+    color: white;
+}
+
+.account-step2 {
+    margin-bottom: 40px;
+}
+
+.account-step2 img {
+    max-width: 75%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.account-step2 p {
+    font-size: 16px;
+    color: white;
+}
+
+#search-recipe {
+    text-align: center;
+    padding: 20px;
+}
+
+.search-step1 {
+    margin-bottom: 40px;
+}
+
+.search-step1 img {
+    max-width: 25%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.search-step1 p {
+    font-size: 16px;
+    color: white;
+}
+
+.search-step2 {
+    margin-bottom: 40px;
+}
+
+.search-step2 img {
+    max-width: 25%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.search-step2 p {
+    font-size: 16px;
+    color: white;
+}
+
+#save-recipe {
+    text-align: center;
+    padding: 20px;
+}
+
+.save-step1 {
+    margin-bottom: 40px;
+}
+
+.save-step1 img {
+    max-width: 25%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.save-step1 p {
+    font-size: 16px;
+    color: white;
+}
+
+.save-step2 {
+    margin-bottom: 40px;
+}
+
+.save-step2 img {
+    max-width: 25%;
+    height: auto;
+    margin-bottom: 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.save-step2 p {
+    font-size: 16px;
+    color: white;
+}
+
 footer {
     text-align: center;
     padding: 1em 0;
