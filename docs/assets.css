@@ -68,6 +68,19 @@ header {
     vertical-align: middle;
 }
 
+#featureGraphicTablet h2 {
+    padding-top: 20px;
+    text-align: center;
+}
+
+#featureGraphicTablet img {
+    width: 18%;
+    height: auto;
+    margin: 0 1%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
 footer {
     text-align: center;
     padding: 1em 0;
