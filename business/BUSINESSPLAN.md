@@ -5,7 +5,7 @@ The Lean Canvas is a strategic management tool that offers a 1-page business pla
 This approach has helped us define exactly what the problem is, who our customers are, our proposed solution, and how we plan to implement our solution. To add, the lean canvas approach has helped us to think about various revenue streams, and where our product will be in 8 weeks, at the end of this semester.
 
 ## Google Slides - Lean Canvas 1-Page Business Plan
-You can access the Lean Canvas 1-page business plan for IngrediMix through this [Google Slides Link] (https://docs.google.com/presentation/d/17A32_CqlG3CsnVjTzG-JQ5Of6p1nclowCaA1TwhVEV0/edit?usp=sharing)
+You can access the Lean Canvas 1-page business plan for IngrediMix through this [Google Slides Link](https://docs.google.com/presentation/d/17A32_CqlG3CsnVjTzG-JQ5Of6p1nclowCaA1TwhVEV0/edit?usp=sharing)
 
 
 ## Persona Grids
