@@ -1,0 +1,123 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="savedRecipes.css">
+    </head>
+    <body>
+        <header>
+            <img src="ingrediMix-FinalLogo.png" alt="IngrediMix Banner" id="banner-img">
+            <h1>See the Devs Saved Recipes!</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="https://github.com/mattpower02/IngrediMix/wiki" target="_blank" rel="noopener noreferrer">Wiki</a></li>
+                    <li><a href="savedRecipes.html">See the Devs Saved Recipes!</a></li>
+                    <li><a href="assets.html">Assets</a></li>
+                    <li><a href="tutorialpage.html">How to Use Our App</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <h3>Click the button to see our recipes!</h3>
+        <div class="inputID">
+            <button id="submit">Click Me!</button>
+
+            <h3 id="findName" type="text"></h3>
+            <h3 id="findAge" type="number"></h3>
+            <h3 id="findRecipe1" type="text"></h3>
+            <h3 id="findRecipe2" type="text"></h3>
+            <h3 id="findRecipe3" type="text"></h3>
+            <h3 id="findRecipe4" type="text"></h3>
+            <h3 id="findRecipe5" type="text"></h3>
+            <h3 id="findRecipe6" type="text"></h3>
+            
+        </div>
+        
+        <script type="module">
+            // Import the functions you need from the SDKs you need
+            import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
+            import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-analytics.js";
+            // TODO: Add SDKs for Firebase products that you want to use
+            // https://firebase.google.com/docs/web/setup#available-libraries
+          
+            // Your web app's Firebase configuration
+            // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+            const firebaseConfig = {
+              apiKey: "AIzaSyCvfOGlZ6nH5JHBm4MSn17kp0IpApv5hQk",
+              authDomain: "ingredimix-c80c8.firebaseapp.com",
+              databaseURL: "https://ingredimix-c80c8-default-rtdb.firebaseio.com",
+              projectId: "ingredimix-c80c8",
+              storageBucket: "ingredimix-c80c8.appspot.com",
+              messagingSenderId: "13379203176",
+              appId: "1:13379203176:web:003f956e2e47d27ad50bdd",
+              measurementId: "G-YH3E8CNP2B"
+            };
+          
+            // Initialize Firebase
+            const app = initializeApp(firebaseConfig);
+            const analytics = getAnalytics(app);
+
+            import {getDatabase, set, get, update, remove, ref, child}
+            from "https://www.gstatic.com/firebasejs/10.7.1/firebase-database.js"
+
+            const db = getDatabase();
+
+            var enterID = document.querySelector("#DevID");
+            var findName = document.querySelector("#findName");
+            var findAge = document.querySelector("#findAge");
+            var findRecipe1 = document.querySelector("#findRecipe1");
+            var findRecipe2 = document.querySelector("#findRecipe2");
+            var findRecipe3 = document.querySelector("#findRecipe3");
+            var findRecipe4 = document.querySelector("#findRecipe4");
+            var findRecipe5 = document.querySelector("#findRecipe5");
+            var findRecipe6 = document.querySelector("#findRecipe6");
+
+            var submit = document.querySelector("#submit");
+
+            const idList = ["2ZYm8Rmbu2OI0ul6BCwW6FJoJtq2","BXxrq2wS4odtcqA6I3YFxh9FwEd2",
+            "BqlxmriyTlYHkOvt65b76EEFNhl1","aWNtAWWO36WAelqqS0ivG3zP8eH2","bqnovO2Lz6U0cWYECIDahaf7bGA3"];
+            var index = 0;
+
+            function nextID(){
+                if(index==idList.length-1){
+                    index=0;
+                }
+                else {
+                    index++;
+                }
+                console.log(index);
+            }
+
+
+            function findData() {
+                const dbref = ref(db)
+                nextID();
+            
+                get(child(dbref, idList[index]))
+                .then((snapshot)=>{
+                    if (snapshot.exists()) {
+                        findName.innerHTML = "Username: " + snapshot.val().username;
+                        findAge.innerHTML = "Age: " + snapshot.val().age;
+                        findRecipe1.innerHTML = "Recipe 1:" + snapshot.val().recipe1;
+                        findRecipe2.innerHTML = "Recipe 2:" + snapshot.val().recipe2;
+                        findRecipe3.innerHTML = "Recipe 3:" + snapshot.val().recipe3;
+                        findRecipe4.innerHTML = "Recipe 4:" + snapshot.val().recipe4;
+                        findRecipe5.innerHTML = "Recipe 5:" + snapshot.val().recipe5;
+                        findRecipe6.innerHTML = "Recipe 6:" + snapshot.val().recipe6;
+
+                    } else {
+                        alert("No Data Found");
+                    }
+                })
+
+                .catch((error)=>{
+                    alert(error);
+                })
+            }
+            
+
+            submit.addEventListener('click', findData);
+          </script>
+    </body>
+</html>
