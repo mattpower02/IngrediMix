@@ -81,6 +81,17 @@ header {
     vertical-align: middle;
 }
 
+#previewVideo {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+video {
+    width: 100%;
+    height: auto;
+}
+
 footer {
     text-align: center;
     padding: 1em 0;
