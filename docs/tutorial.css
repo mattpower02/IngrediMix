@@ -1,0 +1,216 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0a1627;
+    color:crimson;
+}
+
+header {
+    text-align: center;
+    background-color: #0a1627;
+    color: crimson;
+    padding: 1em 0;
+}
+
+#banner-img {
+    display: block;
+    width: 750px;
+    height: 500px;
+    display: block;
+    margin: 0;
+    margin-top: -120px;
+    margin-bottom: -120px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#mini-navbar {
+    top: 200px;
+    left: 0;
+    width: 100%;
+    background-color: #0a1627;
+    color: crimson;
+    padding: 10px;
+    border-radius: 0 5px 5px 0;
+    z-index: 10;
+}
+
+#mini-navbar h3 {
+    text-align: center;
+}
+
+#mini-navbar nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#mini-navbar nav li {
+    display: inline-block
+}
+
+#mini-navbar nav li a {
+    color: white;
+    padding: 10px;
+    display: block;
+    text-decoration: none;
+}
+
+#mini-navbar nav li a:hover {
+    background-color: crimson;
+}
+
+#make-account {
+    text-align: center;
+    padding: 20px;
+}
+
+.account-step1 {
+    margin-bottom: 40px;
+}
+
+.account-step1 img {
+    max-width: 25%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.account-step1 p {
+    font-size: 16px;
+    color: white;
+}
+
+.account-step2 {
+    margin-bottom: 40px;
+}
+
+.account-step2 img {
+    max-width: 75%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.account-step2 p {
+    font-size: 16px;
+    color: white;
+}
+
+#search-recipe {
+    text-align: center;
+    padding: 20px;
+}
+
+.search-step1 {
+    margin-bottom: 40px;
+}
+
+.search-step1 img {
+    max-width: 25%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.search-step1 p {
+    font-size: 16px;
+    color: white;
+}
+
+.search-step2 {
+    margin-bottom: 40px;
+}
+
+.search-step2 img {
+    max-width: 25%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.search-step2 p {
+    font-size: 16px;
+    color: white;
+}
+
+#save-recipe {
+    text-align: center;
+    padding: 20px;
+}
+
+.save-step1 {
+    margin-bottom: 40px;
+}
+
+.save-step1 img {
+    max-width: 25%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.save-step1 p {
+    font-size: 16px;
+    color: white;
+}
+
+.save-step2 {
+    margin-bottom: 40px;
+}
+
+.save-step2 img {
+    max-width: 25%;
+    height: auto;
+    margin-bottom: 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.save-step2 p {
+    font-size: 16px;
+    color: white;
+}
+
+#tutorialVideo {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+video {
+    width: 100%;
+    height: auto;
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0;
+    background-color: #0a1627;
+    color: crimson;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    background-color: #0a1627;
+}
+
+nav{
+    text-align: center;
+}
+
+nav li{
+    display: inline;
+}
+
+nav li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: dotted;
+}
+
+nav li a:hover{
+    background-color: crimson;
+}
