@@ -58,5 +58,5 @@ Developing a Minimum Viable Product (MVP) within 8 weeks is manageable for Ingre
 If you have had the privilege to be invited as an internal tester for IngrediMix, here are some instructions on how to access the app within the Google Play Store for internal testing.
 1. Make sure you are using an Android device on the latest version.
 2. While on your Android device, join the internal test through this link: [Link to join test](https://play.google.com/apps/internaltest/4700311293399606825). This link will only work if your email has been added to the internal tester list.
-3. Click on this link to access the app on the Google Play Store [Link to download IngrediMix](https://play.google.com/apps/test/edu.uri.mattpower.ingredimix11923/1).
+3. Click on this link to access the app on the Google Play Store [Link to download IngrediMix](https://play.google.com/apps/test/edu.uri.mattpower.ingredimix11923/4).
 4. Test our initial version of IngrediMix and leave feedback!
